@@ -1,0 +1,32 @@
+h1 {
+font-size: 41px;
+color: white;
+font-family: fantasy;
+text-align: center;
+font-weight: 20;
+}
+
+div{
+    margin: 25px;
+    background-color: black;
+    color: white;
+   
+
+}
+
+#slimShady {
+    background-color: brown;
+    align-items: center;
+}
+
+#a-label{
+    margin: 20px;
+}
+
+#b-label{
+    margin: 25px;
+    
+}
+body{
+    align-items: center;
+}
